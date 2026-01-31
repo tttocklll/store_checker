@@ -1,0 +1,44 @@
+{
+  "name": "expo-store-checker",
+  "version": "0.1.0",
+  "description": "Expo/React Native module to detect app install source (Flutter store_checker port).",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "source": "src/index.ts",
+  "files": [
+    "build",
+    "src",
+    "android",
+    "ios",
+    "expo-module.config.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "expo",
+    "react-native",
+    "store",
+    "store-checker",
+    "appstore",
+    "play-store"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/<YOUR_GITHUB>/expo-store-checker.git"
+  },
+  "author": "tocky",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "clean": "rm -rf build"
+  },
+  "peerDependencies": {
+    "expo": "*",
+    "expo-modules-core": "*",
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
