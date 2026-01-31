@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
     :tvos => '15.1'
   }
   s.swift_version  = '5.9'
-  s.source         = { git: 'https://github.com/<YOUR_GITHUB>/expo-store-checker.git' }
+  s.source         = { git: 'https://github.com/tttocklll/store_checker.git' }
   s.static_framework = true
 
   s.dependency 'ExpoModulesCore'
