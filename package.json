@@ -1,6 +1,6 @@
 {
   "name": "expo-store-checker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Expo/React Native module to detect app install source (Flutter store_checker port).",
   "main": "build/index.js",
   "types": "build/index.d.ts",
