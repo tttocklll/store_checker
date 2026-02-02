@@ -1,5 +1,9 @@
 # Expo Store Checker
 
+[![npm version](https://img.shields.io/npm/v/expo-store-checker)](https://www.npmjs.com/package/expo-store-checker)
+[![npm downloads](https://img.shields.io/npm/dt/expo-store-checker)](https://www.npmjs.com/package/expo-store-checker)
+[![license](https://img.shields.io/npm/l/expo-store-checker)](https://github.com/tttocklll/store_checker/blob/main/LICENSE)
+
 An Expo/React Native module that detects where the current app was installed from (Play Store, App Store, TestFlight, etc.).
 This is a port of the Flutter package [`store_checker`](https://pub.dev/packages/store_checker).
 
